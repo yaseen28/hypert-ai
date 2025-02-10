@@ -1,1 +1,1 @@
-# hypert-ai
+# This repository is part of manuscript 'Efficient Fine-Tuning and Evaluation of Large Language Models for Interpreting Pediatric Hypertension Guidelines' submitted to 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) authored by Mohamed Yaseen Jabarulla, Steffen Oeltze-Jafra, Philipp Beerbaum, Theodor Uden. 
