@@ -12,14 +12,10 @@
 3. Evaluation involved using a benchmark dataset crafted by a pediatric specialist with four years of experience in pediatric cardiology manually generated twenty questions and corresponding responses by meticulously reviewing the pediatric hypertension consensu document.  [Dataset](https://github.com/yaseen28/hypert-ai/tree/main/Benchmark_Dataset).
 4. Evaluated models' based on qualitative and quantitative analysis using Translation Edit Rate (TER) and BERT-based similarity metrics [Demo Scripts](https://github.com/yaseen28/).
 
-# User Interface
+# User Interface and Evaluation Overview
 
 A Streamlit-Powered Chat Tool for inferencing the four Large Language Models with benchmark queries.
 
-|![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide1.PNG?raw=true) | ![Image2](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface.png?raw=true) |
+|![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface.png?raw=true) | ![Image2](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Evaluation.png?raw=true) |
 |:---:|:---:|
-
-# Evaluation Overview
-
-|![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide1.PNG?raw=true)
 
