@@ -8,7 +8,7 @@ This repository contains the implementation of our full paper submitted to the I
 
 # Overview of the Model Fine-Tuning and Deployment Process
 
-![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Overview.png?raw=true)
+![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Overview.png)
 
 # Description
 ------------------------------------------------------------------------------
