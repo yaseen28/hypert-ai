@@ -7,7 +7,6 @@ This repository contains the implementation of our full paper submitted to the I
 **Affiliation:** Peter L. Reichertz Institute for Medical Informatics, TU Braunschweig & Hannover Medical School  
 
 # Overview of the Model Fine-Tuning and Deployment Process
-
 ![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Overview.png)
 
 # Description
