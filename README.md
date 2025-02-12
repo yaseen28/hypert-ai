@@ -2,10 +2,9 @@
 
 # Overview of the Model Fine-Tuning and Deployment Process
 
-A Streamlit-Powered Chat Tool for interpreting Multi-PDF Document using Four Large Language Models.
-
 |![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Overview.png?raw=true)
 
+# Description
 ------------------------------------------------------------------------------
 1. We fine-tune the LLaMA 3.1 base model using the Parameter-Efficient Fine-Tuning (PEFT) based fine-tuning methods— Low-Rank Adaptation (LoRA), Quantized LoRA (QLoRA), and Bias-terms Fine-tuning (BitFit) on a custom pediatric hypertension dataset [Source](https://github.com/yaseen28/hypert-ai/tree/main/Dataset)
 2. The Streamlit user interface [CODE](https://github.com/yaseen28/hypert-ai/blob/main/streamlit_UI.py) allows users to choose from four quantized Language Model Models (LLMs) to access ESC consensus on pediatric hypertension.
@@ -22,8 +21,6 @@ A Streamlit-Powered Chat Tool for inferencing the four Large Language Models wit
 |![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide3.PNG?raw=true) | ![Image2](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide4.PNG?raw=true) |
 
 # Evaluation Overview
-
-A Streamlit-Powered Chat Tool for inferencing the four Large Language Models with benchmark queries.
 
 |![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide1.PNG?raw=true)
 
