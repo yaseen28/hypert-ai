@@ -17,6 +17,7 @@
 A Streamlit-Powered Chat Tool for inferencing the four Large Language Models with benchmark queries.
 
 |![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide1.PNG?raw=true) | ![Image2](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface.png?raw=true) |
+|:---:|:---:|
 
 # Evaluation Overview
 
