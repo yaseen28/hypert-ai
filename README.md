@@ -10,7 +10,7 @@
 2. The Streamlit user interface [CODE](https://github.com/yaseen28/hypert-ai/blob/main/streamlit_UI.py) allows users to choose from four quantized Language Model Models (LLMs) to access ESC consensus on pediatric hypertension.
 4. In our clinical use case, we assessed each model's performance by interpreting the hypertension in children and adolescents ESC consensus PDF document. [Source](https://academic.oup.com/eurheartj/article/43/35/3290/6633855)<br/>
 3. Evaluation involved using a benchmark dataset crafted by a pediatric specialist with four years of experience in pediatric cardiology manually generated twenty questions and corresponding responses by meticulously reviewing the pediatric hypertension consensu document.  [Dataset](https://github.com/yaseen28/hypert-ai/tree/main/Benchmark_Dataset).
-4. Evaluated models' based on qualitative and quantitative analysis using Translation Edit Rate (TER) and BERT-based similarity metrics. Demo scripts can be found in the main fine tube script [Demo Scripts](https://github.com/yaseen28/hypert-ai/blob/main/Main_Finetune_Unsloth.ipynb).
+4. Evaluated models' based on qualitative and quantitative analysis using Translation Edit Rate (TER) and BERT-based similarity metrics. Demo scripts can be found in the main fine tune script [Demo Scripts](https://github.com/yaseen28/hypert-ai/blob/main/Main_Finetune_Unsloth.ipynb).
 
 # User Interface and Evaluation Overview
 
