@@ -18,10 +18,12 @@ This repository contains the implementation of our full paper submitted to the I
 3. Evaluation involved using a benchmark dataset crafted by a pediatric specialist with four years of experience in pediatric cardiology manually generated twenty questions and corresponding responses by meticulously reviewing the pediatric hypertension consensu document.  [Dataset](https://github.com/yaseen28/hypert-ai/tree/main/Benchmark_Dataset).
 4. Evaluated models' based on qualitative and quantitative analysis using Translation Edit Rate (TER) and BERT-based similarity metrics. Demo scripts for evaluation can be seen in the main fine tune script [Demo Scripts](https://github.com/yaseen28/hypert-ai/blob/main/Main_Finetune_Unsloth.ipynb).
 
-# User Interface and Evaluation Overview
-
+# User Interface
 A Streamlit-Powered Chat Tool for inferencing the four Large Language Models with benchmark queries.
 
-|![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface.png?raw=true) | ![Image2](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Evaluation.png?raw=true) |
+|![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface.png?raw=true) | ![Image2](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Interface2.png?raw=true) |
 |:---:|:---:|
 
+# Evaluation Overview
+
+![Image1](https://github.com/yaseen28/hypert-ai/blob/main/Screenshots/Evaluation.png?raw=true)
