@@ -1,6 +1,6 @@
-# Repository for IEEE EMBC 2025 Submission  
+# Repository for IEEE Healthcom 2025 Submission  
 
-This repository contains the implementation of our full paper submitted to the IEEE EMBC 2025 Conference.  
+This repository contains the implementation of our full paper submitted to the IEEE Healthcom 2025.  
 
 **Title:** Efficient Fine-Tuning and Evaluation of Large Language Models for Interpreting Pediatric Hypertension Guidelines  
 **Authors:** Mohamed Yaseen Jabarulla, Steffen Oeltze-Jafra, Philipp Beerbaum, Theodor Uden  
